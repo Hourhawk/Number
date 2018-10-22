@@ -2,7 +2,7 @@ Number
 ---
 
 ## What is this?
-Number is a 2D Game Engine built for the web.
+Number is a 2D Game Engine built for the web. 
 The Engine runs on Javascript Canvas w/ HTML5.
 
 ## Documentation & Demo
